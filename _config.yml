@@ -39,10 +39,10 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/ai.ico"
 logo: "/img/author.png" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg.webp"
 
 ##############################
 # Dynamic Text on the Header #
