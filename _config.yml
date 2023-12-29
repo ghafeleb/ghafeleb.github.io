@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: "Ali Ghafelebashi"
+author: ""
 title: "{ Ali Ghafelebashi }"
 description: "Blog and website of Ali Ghafelebashi, blogging mainly for tech. Opinions expressed are mine."
 keywords: "ghafelebashi, ali, personal, optimization, machine learning"
