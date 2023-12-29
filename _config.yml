@@ -147,7 +147,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "ghafeleb@email.here"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -169,16 +169,16 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+  - title: "scholar"
+    url: "https://scholar.google.com/citations?user=buk9O0kAAAAJ&hl=en"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/ali-ghafelebashi/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/ghafeleb"
+  # - title: "bitcoin"
+  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  # - title: "rss"
+  #   url: "/feed.xml"
 
 ############
 # 404 page #
@@ -186,13 +186,13 @@ social:
 
 err-404-img: "/img/labtocat.png"
 
-##################
-# GPG on Keybase #
-##################
+# ##################
+# # GPG on Keybase #
+# ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+# keybase-username: johnsmith
+# keybase-in-social: True
+# keybase-in-footer: True
 
 ################################################################################
 
