@@ -57,7 +57,9 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Ali Ghafelebashi"
-  - text: "Large-Scale Optimization, Machine Learning, Transportation"
+  - text: "Optimization"
+  - text: "Machine Learning"
+  - text: "Transportation"
 
 me-img: "/img/author.png"
 
@@ -147,7 +149,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "ghafeleb@email.here"
+email: "ghafeleb@usc.edu"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -161,7 +163,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Ali Ghafelebashi is an awesome person. He lives in US, where he works on exciting projects. In his spare time, Ali likes to eat Pizza."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -169,7 +171,7 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "scholar"
+  - title: "scholar_userid"
     url: "https://scholar.google.com/citations?user=buk9O0kAAAAJ&hl=en"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/ali-ghafelebashi/"
