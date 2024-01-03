@@ -56,10 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Ali Ghafelebashi"
-  - text: "Optimization"
-  - text: "Machine Learning"
-  - text: "Transportation"
+  - text: "Crafting Excellence, One Project at a Time"
+  - text: "Optimization, Machine Learning, Transportation"
 
 me-img: "/img/author.png"
 
