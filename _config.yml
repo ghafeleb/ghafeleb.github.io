@@ -132,16 +132,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/usc3.png"
+    date: "August 2018 - Present"
+    description: "Ph.D., Industrial Engineering @ University of Southern California"
+  - image: "/img/shipt3.png"
+    date: "June 2023-August 2023"
+    description: "Machine Learning & Data Science Intern @ Shipt"
+  - image: "/img/shipt3.png"
+    date: "May 2022-August 2022"
+    description: "Data Science (Full Stack) Intern @ Shipt"
+  - image: "/img/usc3.png"
+    date: "August 2019 - December 2021"
+    description: "M.Sc., Computer Science @ University of Southern California"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/up.png"
 
 ###########
 # Contact #
@@ -169,14 +175,14 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "scholar_userid"
-    url: "https://scholar.google.com/citations?user=buk9O0kAAAAJ&hl=en"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/ali-ghafelebashi/"
   - title: "github"
     url: "https://github.com/ghafeleb"
-  # - title: "bitcoin"
-  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "facebook"
+    url: "https://www.facebook.com/ali.ghafelebashi"
+  - title: "scholar_userid"
+    url: "https://scholar.google.com/citations?user=buk9O0kAAAAJ&hl=en"
   # - title: "rss"
   #   url: "/feed.xml"
 
