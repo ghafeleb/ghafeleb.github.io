@@ -210,7 +210,7 @@ pages_list:
   About: 'about'
   News: 'latest-post'
   Timeline: 'timeline'
-  Gallery: 'gallery'
+  # Gallery: 'gallery'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
